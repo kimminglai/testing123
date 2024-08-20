@@ -1,3 +1,4 @@
+# Git commited by KM 20 aug 2024
 # This file was generated on 06/12/20 at 18:51:30.
 
 #TesterConfig.txt loaded from: c:\Program Files (x86)\Teradyne\IG-XL\10.10.02_uflx\tester\PhysicalConfig.txt
